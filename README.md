@@ -10,3 +10,6 @@ We make use of a lot of Microsoft services and code, and sometimes we aren't awa
 Amazon does the same thing with AWS. So many new features and cost savings can be had from going serverless, and Amazon offers perhaps the most feature-complete offering. That leaves little room for competitors. It's a bit strange that Netflix, a direct competitor to Amazon, is also one of its biggest customers.
 
 At the end of all of it, who gets the short end of the stick? Software engineers and end users.
+
+## Comment - juliannzhou
+I think it's an interesting article! I had not known or thought about the significance of big name techs acquiring these softwares that are originally open-source and converting them to proprietary for the sake of competition. I can see that it would limit optimization and development in the long run for many softwares.
